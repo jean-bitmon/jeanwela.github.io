@@ -3976,3 +3976,12 @@ input, select, textarea {
 		border-radius: 100px;
 	}
 }
+
+
+p.umaintenance {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 1.2;
+}
