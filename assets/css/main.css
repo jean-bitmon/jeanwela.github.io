@@ -3950,3 +3950,9 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+
+.myprofile {
+	width: 60%;
+    height: auto;
+}
