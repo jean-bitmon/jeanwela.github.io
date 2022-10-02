@@ -3978,7 +3978,7 @@ input, select, textarea {
 }
 
 
-p.umaintenance {
+.umaintenance {
     padding-top: 50px;
     text-align: center;
     font-size: 35px;
