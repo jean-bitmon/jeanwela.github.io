@@ -3953,6 +3953,26 @@ input, select, textarea {
 
 
 .myprofile {
-	width: 60%;
+	width: 73%;
     height: auto;
+    padding: 50px;
+    border-radius: 100px;
+}
+
+@media screen and (max-width: 980px) {
+	.myprofile {
+		width: 73%;
+		height: auto;
+		padding: 50px;
+		border-radius: 100px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.myprofile {
+		width: 100%;
+		height: auto;
+		padding: 50px 50px;
+		border-radius: 100px;
+	}
 }
